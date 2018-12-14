@@ -8,3 +8,4 @@ C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplic
 C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\bin\Debug\netcoreapp2.0\WebAPIGQL.pdb
 C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\obj\Debug\netcoreapp2.0\WebAPIGQL.dll
 C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\obj\Debug\netcoreapp2.0\WebAPIGQL.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\obj\Debug\netcoreapp2.0\WebApplicationGQL.csprojResolveAssemblyReference.cache

@@ -14,9 +14,9 @@ namespace WebAPIGQL.Services
             _news = new List<News>();
             _news.Add(new News() {
                 Id = Guid.NewGuid().ToString(),
-                Author = "Darrel",
-                Description = "Sachin out",
-                Title = "Adelide Test",
+                Author = "Riyansh",
+                Description = "Sample News",
+                Title = "Happy News :)",
                 PublishedOn = DateTime.Now
             });
         }
