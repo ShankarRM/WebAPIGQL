@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\obj\Debug\netcoreapp2.0\WebApplicationGQL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\obj\Debug\netcoreapp2.0\WebApplicationGQL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\obj\Debug\netcoreapp2.0\WebApplicationGQL.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\bin\Debug\netcoreapp2.0\WebAPIGQL.deps.json
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\bin\Debug\netcoreapp2.0\WebAPIGQL.runtimeconfig.json
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\bin\Debug\netcoreapp2.0\WebAPIGQL.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\bin\Debug\netcoreapp2.0\WebAPIGQL.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\bin\Debug\netcoreapp2.0\WebAPIGQL.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\obj\Debug\netcoreapp2.0\WebAPIGQL.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\WebApplicationGQL\WebApplicationGQL\obj\Debug\netcoreapp2.0\WebAPIGQL.pdb
