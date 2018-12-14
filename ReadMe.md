@@ -14,9 +14,9 @@ query {
   "data": {
     "news": [
       {
-        "id": "66e743d6-3d4d-44e1-847b-019c59e648f8",
-        "title": "Adelide Test",
-        "description": "Sachin out",
+        "id": "d0e16e84-dba8-47e0-852e-d789006f6af7",
+        "title": "Happy News :)",
+        "description": "Sample News",
         "publishedOn": "2018-12-14"
       }
     ]
